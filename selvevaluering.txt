@@ -1,0 +1,26 @@
+Philip Toan Nguyen
+Studentnr: 161218
+
+I mitt program så er det mye som kunne ha blitt forbedret.
+Jeg vil nevne så mange mulige i punkter. Men jeg brukte mye lenger tid enn det jeg forventet av å implenmentere det viktige/krava for oppgaven, før jeg evt skulle forbedre selve programmet.
+
+-- Sist selektert
+
+1. I forhold til hvordan jeg har løst denne oppgaven, så føler jeg at det er mulig å programmere på en "bedre" måte enn det jeg har gjort. Et eksempel er blant annet at istedet for mange metoder i min main klasse kunne jeg har laget flere klasser istedet og utnyttet mye mer fra klasser.
+Jeg har da istedet gjort at, den man sist selekterer er den man får opplysninger fra. I tillegg har jeg brukt opacitiy, men kunne løst dette på en bedre måte. Ved at den selekterte er litt gjenomsiktig til en annen blir valgt og blir det. I mitt program blir den kun gjennomsiktig når jeg trykker og holder i den til jeg slipper. 
+
+2. Når jeg tegner figurer skulle jeg ønske at jeg fikk til en slags figurliste med id. Det tok mye lenger tid enn det jeg forventet og det ble mye mer for min del vanskelig klare å se løsning etter at jeg hadde programmert på min måte. Jeg føler jeg skulle gjort dette samtidig som jeg fikk til å tegne figurer(fordi det var det jeg gjorde først). 
+
+3.Jeg kunne ha brukt try and catch i forhold til feilmeldinger?
+
+4. I min draFigur() metode kunne jeg blant annet gjort at sist selektert opplysningene gikk nedover istedet for bortover. Fra mitt perspektiv hadde det sett mye finere ut at det gikk vertikalt. I løpet av tiden jeg hadde igjen fikk jeg bare det ikke til. Jeg brukte split og enhanced forloop for valgtFigur(den jeg selekterer). Men fikk ikke det til, utenom på system.out.println, men det gikk ikke på selve programmet fordi det kunn viste det siste indeksen.
+
+Det er ikke noe problem i forhold til opplysningene for ulike figurer, men den blir ganske lang ved tekst. 
+
+5. Spennende oppgave med mange funksjoner man kan implementere. Det er mange valgfrie. Uheldigvis har jeg ikke implementert noe mer enn Ellipse. Men kommer nok til å bruke mye av erfaringer fra dette obligatoriske oppgaven til å øve meg i forhold til bruk av klasser, funksjoner og lignende. 
+
+6. Når man skriver en haug med koder synes jeg det er utfordrende å forholde seg til å vite "er dette ryddig nok kode" for at en annen skal kunne klare å lese dette. Man detter fort ut av det og da føler jeg at man roter mer og mer.
+
+7. Jeg har satt vinduet til resizeable pågrunn av bruk av ulike pcer. Sitter man på en bærbar kan man oppleve at det ikke er det beste, fordi vinduet er altfor stort. Denne delen kunne definitivt blitt forbedret. 
+
+8. En egen klasse for gui hadde gjort mainen mye mer ryddigere. 
